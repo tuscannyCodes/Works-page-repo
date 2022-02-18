@@ -1,0 +1,25 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.boxes1 {
+  background-color: red;
+  width: 20em;
+  height: 20em;
+  border: 1px solid black;
+}
+
+.boxes2 {
+  background-color: blue;
+}
+
+.boxes3 {
+  background-color: purple;
+}
