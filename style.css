@@ -10,18 +10,17 @@
 }
 
 .boxes1 {
-  background-color: red;
+  /* background-color: red; */
   width: 20em;
   height: 20em;
-  border: 1px solid black;
 }
 
 .boxes2 {
-  background-color: blue;
+  /* background-color: blue; */
 }
 
 .boxes3 {
-  background-color: purple;
+  /* background-color: purple; */
 }
 
 img {
